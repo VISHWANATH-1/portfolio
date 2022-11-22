@@ -44,9 +44,9 @@ const Footer = () => {
           <h4>About Me</h4>
           <p>
             I Am A Self Learner And Front-end Developer. 
-            I Enjoy In Developing
+            {/*I Enjoy In Developing
             New-Projects And Deploying Them,
-            It Improves My Learninig Capability.
+            It Improves My Learninig Capability.*/}
           </p>
           <div className="social">
             <FaFacebook
