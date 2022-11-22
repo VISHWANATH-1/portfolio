@@ -25,7 +25,7 @@ const ProjectCard =[
         imgsrc: pro4,
         title:"Portfolio",
         text:"It Is About My Portfolio ",
-        view:"https://imdb-f1l.pages.dev/"
+        view:"https://portfolio-30n.pages.dev/"
     }
 ];
 export default ProjectCard;
