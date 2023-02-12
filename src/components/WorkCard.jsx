@@ -27,5 +27,17 @@ const ProjectCard =[
         text:"It Is About My Portfolio ",
         view:"https://portfolio-30n.pages.dev/"
     }
+    {   
+        imgsrc: pro3,
+        title:"calculator",
+        text:"It is calculator App",
+        view:"https://calculator-omega-wine.vercel.app/"     
+    } 
+    {
+        imgsrc:pro2,
+        title:"login",
+        text:"Login Logout using local storage",
+        view:"https://logio.vercel.app/"
+    }
 ];
 export default ProjectCard;
